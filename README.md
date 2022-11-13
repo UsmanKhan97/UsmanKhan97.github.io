@@ -1,2 +1,2 @@
 # UsmanKhan97.github.io
-My first GitHub repository, thanks to Per Scholas!
+My first GitHub repository, will continue to add more!
